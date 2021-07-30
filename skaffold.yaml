@@ -10,5 +10,5 @@ build:
   tagPolicy:
     gitCommit: {}
   artifacts:
-  - image: discoenv/apply-labels
+  - image: harbor.cyverse.org/de/apply-labels
   local: {}

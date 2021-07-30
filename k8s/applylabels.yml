@@ -26,7 +26,7 @@ spec:
                 path: timezone
       containers:
       - name: apply-labels
-        image: discoenv/apply-labels
+        image: harbor.cyverse.org/de/apply-labels
         resources:
           requests:
             cpu: "1m"
